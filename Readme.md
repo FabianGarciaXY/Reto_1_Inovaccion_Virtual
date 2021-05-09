@@ -1,7 +1,7 @@
 <!-- HEADINGS-->
 # ~~**INNOVACCION "RETO SEMANA 1"**~~
                         
-                            "Hello world";
+    "Hello world";
 ---
 ## ~~Indice~~
 ---
@@ -33,6 +33,3 @@ marcos que prefiera.*
 
     Integrantes:
         Fabian Hernandez Garcia
-
-
-
