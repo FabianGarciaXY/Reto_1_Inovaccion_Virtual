@@ -24,13 +24,19 @@
 *Azure está compuesta por más de 200 productos y servicios en la nube diseñados para ayudarle a dar vida a nuevas soluciones que permitan resolver las dificultades actuales y crear el futuro. Cree, ejecute y administre aplicaciones en varias nubes, en el entorno local y en el perímetro, con las herramientas y los 
 marcos que prefiera.*
 ## **IaaS**
+### Infraestructura como servicio (IaaS) se refiere a los servicios en línea que proporcionan un alto-nivel de APIs utilizadas para indireccionar detalles a bajo nivel de infraestructura como recursos de informática física, ubicación, dato partitioning, scaling, seguridad, copia de seguridad etc
 ## **PaaS**
+### PaaS proporciona un marco que los desarrolladores pueden ampliar para desarrollar o personalizar aplicaciones basadas en la nube. De forma similar a la creación de una macro en Excel, PaaS permite a los desarrolladores crear aplicaciones usando componentes de software integrados.
 ## **SaaS**
-## 
+### es un modelo de distribución de software donde el soporte lógico y los datos que maneja se alojan en servidores de una compañía de tecnologías de información y comunicación (TIC), a los que se accede vía Internet desde un cliente.
 ## 
 ## 
 ## 
 ## 
 
         Realizado por:
-            -
+            -Fabian Hernandez
+            -Maricela Parkins
+            -Luis Hernandez
+            -Vicente Muñoz
+            -Marco Martinez 
