@@ -8,11 +8,11 @@
 * [¿Qué es IaaS?](#iaas)
 * [¿Qué es PaaS?](#paas)
 * [¿Qué es SaaS?](#saas)
-* [Concepto 6](#)
-* [Concepto 7](#)
-* [Concepto 8](#)
-* [Concepto 9](#)
-* [Concepto 10](#)
+* [Tipos De Nube](#Nube)
+* [Nube Publica](#Publica)
+* [Nube Privada](#Privada)
+* [Nube Híbrida](#Hibrida)
+* [Multi Cloud](#Cloud)
 ---
 ## **La nube**
 ![](https://www.arsys.es/blog/file/uploads/2019/02/mover-negocio-nube-01.jpg)
