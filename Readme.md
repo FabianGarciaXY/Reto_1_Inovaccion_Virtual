@@ -1,8 +1,8 @@
 <!-- HEADINGS-->
 # ~~**INNOVACCION "RETO SEMANA 1**~~
     "Hello world";
----
 ## ~~Conceptos:~~ 
+---
 * [¿Qué es la nube?](#la-nube)
 * [¿Qué es Azure?](#Azure)
 * [¿Qué es IaaS?](#iaas)
@@ -13,6 +13,7 @@
 * [Concepto 8](#)
 * [Concepto 9](#)
 * [Concepto 10](#)
+---
 ## **La nube**
 ![](https://www.arsys.es/blog/file/uploads/2019/02/mover-negocio-nube-01.jpg)
 
