@@ -1,6 +1,7 @@
 <!-- HEADINGS-->
 # ~~**INNOVACCION "RETO SEMANA 1**~~
     "Hello world";
+![Cloud Computing](https://i.pinimg.com/originals/bf/48/11/bf481115335525bfb8779125e7b66d73.gif)
 ## ~~Conceptos:~~ 
 ---
 * [¿Qué es la nube?](#la-nube)
